@@ -63,7 +63,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="I m Aditya Gupta"
+            android:text="I m Shashi"
             android:layout_margin="8sp"
             android:textSize="16sp"/>
 
