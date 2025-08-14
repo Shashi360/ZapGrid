@@ -1,6 +1,6 @@
-![Cover (1)](https://user-images.githubusercontent.com/94394661/278870241-7a5ce87a-ce34-417d-bcea-1b2025cf2854.png)
-# EvoCharge
-EvoCharge offers a one-stop solution for finding and booking charging locations. An Android application, written in Kotlin, seamlessly integrates with the [EvoCharge backend](https://github.com/Aditya-gupta99/EvoCharge-Backend), which is built using Spring Boot.
+
+# ZapGrid
+ZapGrid offers a one-stop solution for finding and booking charging locations. An Android application, written in Kotlin, seamlessly integrates with the [ZapGrid backend](https://github.com/Aditya-gupta99/ZapGrid-Backend), which is built using Spring Boot.
 
 ### Features
 - Map View for Finding Nearby Charging Stations.
@@ -10,11 +10,6 @@ EvoCharge offers a one-stop solution for finding and booking charging locations.
 - Online Payment Option.
 - Profile Customization.
 - User Authentication.
-
-### Status
-<a href="https://github.com/Aditya-gupta99/EvoCharge-App/releases"><img src="https://img.shields.io/github/v/release/Aditya-gupta99/EvoCharge-App" alt="release"/></a>
-<a href="https://github.com/Aditya-gupta99/EvoCharge-App/actions"><img src="https://img.shields.io/github/checks-status/Aditya-gupta99/EvoCharge-App/master?label=build" alt="build"/></a>
-<a href="https://github.com/Aditya-gupta99/EvoCharge-App/issues"><img src="https://img.shields.io/github/commit-activity/m/Aditya-gupta99/EvoCharge-App" alt="commit-activity"/></a>
 
 ## Screenshots
 
