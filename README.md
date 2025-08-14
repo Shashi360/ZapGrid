@@ -64,7 +64,7 @@ To start, ensure that you've successfully downloaded and properly configured the
 ## Building the Code 
 1. Clone the repository
     ```sh
-    git clone https://github.com/openMF/android-client.git
+    git clone https://github.com/Shashi360/ZapGrid
     ```
 2. Open Android Studio.
 
